@@ -1,4 +1,4 @@
-//
+//教材P300的程序，实现了生成多面体线框图；
 #include <windows.h>
 #include <GL/glut.h>
 GLsizei winWidth = 500, winHeight = 500;

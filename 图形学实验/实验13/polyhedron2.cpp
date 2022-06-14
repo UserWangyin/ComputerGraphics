@@ -1,4 +1,4 @@
-//
+//教材P307的程序，实现了生成多面体线框图。
 #include <windows.h>
 #include <GL/glut.h>
 

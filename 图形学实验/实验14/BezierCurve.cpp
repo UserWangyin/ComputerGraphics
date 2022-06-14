@@ -48,6 +48,7 @@ void computeBezPt(GLfloat u, wcPt3D* bezPt, GLint nCtrlPts, wcPt3D* ctrlPts, GLi
 
     }
 }
+//Bezier算法
 void bezier(wcPt3D* ctrlPts, GLint nCtrlPts, GLint nBezPts)
 {
     GLint* C, k;
