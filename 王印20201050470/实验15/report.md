@@ -1,1 +1,1 @@
-# Z-buffer
+# Z-buffer  完成消隐实验，采用Z-buffer算法完成消隐实验
